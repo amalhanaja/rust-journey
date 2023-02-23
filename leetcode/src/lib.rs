@@ -4,5 +4,6 @@ mod _13_roman_to_integer;
 mod _20_valid_parantheses;
 mod _35_search_insert_position;
 mod _118_pascals_triangle;
+mod _502_ipo;
 mod _511_single_element_in_a_sorted_array;
 mod _1101_capacity_to_ship_packages_within_d_days;

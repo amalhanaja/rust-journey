@@ -5,3 +5,4 @@ mod find_the_missing_letter;
 mod mexican_wave;
 mod persistent_bugger;
 mod who_likes_it;
+mod number_of_trailing_zeros_of_n_factorial;

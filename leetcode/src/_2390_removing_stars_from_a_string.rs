@@ -2,23 +2,14 @@ struct Solution;
 
 impl Solution {
     pub fn remove_stars(s: String) -> String {
-        let mut result: String = String::new();
-        let mut star_count = 0;
-        s.chars().rev().for_each(| c| {
-            match c {
-                '*' => {
-                    star_count += 1;
-                },
-                _ => {
-                    if star_count > 0 {
-                        star_count -= 1;
-                    } else {
-                        result.insert(0, c);
-                    }
-                }
+        return s.chars().fold(String::new(), |mut acc, c| {
+            if c == '*' {
+                acc.pop();
+            } else {
+                acc.push(c);
             }
+            acc
         });
-        return result;
     }
 }
 

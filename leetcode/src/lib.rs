@@ -9,3 +9,4 @@ mod _165_compare_version;
 mod _502_ipo;
 mod _511_single_element_in_a_sorted_array;
 mod _1101_capacity_to_ship_packages_within_d_days;
+mod _2390_removing_stars_from_a_string;

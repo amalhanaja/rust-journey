@@ -3,6 +3,7 @@ mod _9_polindrome_number;
 mod _13_roman_to_integer;
 mod _20_valid_parantheses;
 mod _35_search_insert_position;
+mod _71_simplify_path;
 mod _118_pascals_triangle;
 mod _164_maximum_gap;
 mod _165_compare_version;

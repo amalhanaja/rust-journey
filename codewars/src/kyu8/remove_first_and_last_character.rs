@@ -1,5 +1,7 @@
+// https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/
+
 pub fn remove_char(s: &str) -> String {
-    return s.to_string().drain(1..s.len()-1).collect()
+    return s.to_string().drain(1..s.len() - 1).collect();
 }
 
 #[cfg(test)]

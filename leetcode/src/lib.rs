@@ -11,4 +11,5 @@ mod _502_ipo;
 mod _511_single_element_in_a_sorted_array;
 mod _946_validate_stack_sequences;
 mod _1101_capacity_to_ship_packages_within_d_days;
+mod _1498_number_of_subsequences_that_satisfy_the_given_sum_condition;
 mod _2390_removing_stars_from_a_string;

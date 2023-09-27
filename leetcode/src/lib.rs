@@ -11,6 +11,7 @@ mod _217_contains_duplicate;
 mod _2390_removing_stars_from_a_string;
 mod _242_valid_anagram;
 mod _35_search_insert_position;
+mod _49_group_anagrams;
 mod _502_ipo;
 mod _511_single_element_in_a_sorted_array;
 mod _71_simplify_path;

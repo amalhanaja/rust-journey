@@ -16,6 +16,7 @@ mod _49_group_anagrams;
 mod _502_ipo;
 mod _511_single_element_in_a_sorted_array;
 mod _71_simplify_path;
+mod _896_monotonic_array;
 mod _905_sort_array_by_parity;
 mod _946_validate_stack_sequences;
 mod _9_polindrome_number;

@@ -2,10 +2,7 @@
 
 
 fn make_negative(n: i32) -> i32 {
-    if n == 0 {
-        return 0;
-    }
-    return (n.abs() * -1) as i32;
+    return -n.abs() as i32;
 }
 
 #[cfg(test)]

@@ -2,6 +2,7 @@ mod even_or_odd;
 mod grasshopper_messi_goals_function;
 mod remove_first_and_last_character;
 mod return_negative;
+mod reversed_strings;
 mod reversed_words;
 mod sum_of_positive;
 mod the_if_function;

@@ -2,6 +2,7 @@ mod convert_boolean_values_to_strings;
 mod even_or_odd;
 mod grasshopper_messi_goals_function;
 mod number_to_a_string;
+mod opposite_number;
 mod remove_first_and_last_character;
 mod return_negative;
 mod reversed_strings;

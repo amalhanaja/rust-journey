@@ -7,6 +7,7 @@ mod remove_first_and_last_character;
 mod return_negative;
 mod reversed_strings;
 mod reversed_words;
+mod square_n_sum;
 mod sum_of_positive;
 mod the_if_function;
 mod third_angle_of_a_triangle;

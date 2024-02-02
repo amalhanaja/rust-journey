@@ -1,6 +1,7 @@
 mod convert_boolean_values_to_strings;
 mod even_or_odd;
 mod grasshopper_messi_goals_function;
+mod grasshopper_summation;
 mod number_to_a_string;
 mod opposite_number;
 mod remove_first_and_last_character;
@@ -8,9 +9,9 @@ mod return_negative;
 mod reversed_strings;
 mod reversed_words;
 mod square_n_sum;
+mod string_repeat;
 mod sum_of_positive;
 mod the_if_function;
 mod third_angle_of_a_triangle;
 mod volume_of_a_cuboid;
 mod you_cant_code_under_pressure_1;
-mod string_repeat;

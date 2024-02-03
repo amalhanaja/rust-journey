@@ -5,6 +5,7 @@ mod grasshopper_summation;
 mod number_to_a_string;
 mod opposite_number;
 mod remove_first_and_last_character;
+mod remove_string_spaces;
 mod return_negative;
 mod reversed_strings;
 mod reversed_words;

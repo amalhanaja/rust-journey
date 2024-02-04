@@ -1,5 +1,6 @@
 mod convert_boolean_values_to_strings;
 mod even_or_odd;
+mod find_the_smallest_integer_in_the_array;
 mod grasshopper_messi_goals_function;
 mod grasshopper_summation;
 mod number_to_a_string;

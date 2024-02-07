@@ -1,3 +1,4 @@
+mod basic_mathematical_operations;
 mod convert_boolean_values_to_strings;
 mod counting_sheep;
 mod even_or_odd;

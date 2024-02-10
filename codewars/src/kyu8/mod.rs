@@ -1,4 +1,5 @@
 mod basic_mathematical_operations;
+mod century_from_year;
 mod convert_a_string_to_a_number;
 mod convert_boolean_values_to_strings;
 mod counting_sheep;
@@ -6,6 +7,7 @@ mod even_or_odd;
 mod find_the_smallest_integer_in_the_array;
 mod grasshopper_messi_goals_function;
 mod grasshopper_summation;
+mod keep_hydrated;
 mod number_to_a_string;
 mod opposite_number;
 mod remove_first_and_last_character;
@@ -20,4 +22,3 @@ mod the_if_function;
 mod third_angle_of_a_triangle;
 mod volume_of_a_cuboid;
 mod you_cant_code_under_pressure_1;
-mod century_from_year;

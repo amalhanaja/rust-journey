@@ -15,6 +15,7 @@ mod opposite_number;
 mod remove_first_and_last_character;
 mod remove_string_spaces;
 mod return_negative;
+mod returning_strings;
 mod reversed_strings;
 mod reversed_words;
 mod square_n_sum;

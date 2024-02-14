@@ -13,6 +13,7 @@ mod is_n_divisible_by_x_and_y;
 mod keep_hydrated;
 mod number_to_a_string;
 mod opposite_number;
+mod opposites_attract;
 mod remove_first_and_last_character;
 mod remove_string_spaces;
 mod return_negative;

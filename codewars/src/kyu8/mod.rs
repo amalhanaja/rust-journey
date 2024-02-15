@@ -1,6 +1,7 @@
 mod abbreviate_a_two_word_name;
 mod basic_mathematical_operations;
 mod beginner_lost_without_a_map;
+mod beginner_series_1_school_paperwork;
 mod century_from_year;
 mod convert_a_string_to_a_number;
 mod convert_boolean_values_to_strings;

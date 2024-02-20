@@ -26,6 +26,7 @@ mod return_negative;
 mod returning_strings;
 mod reversed_strings;
 mod reversed_words;
+mod simple_multiplication;
 mod square_n_sum;
 mod string_repeat;
 mod sum_of_positive;

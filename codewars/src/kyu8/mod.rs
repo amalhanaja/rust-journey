@@ -12,6 +12,7 @@ mod convert_number_to_reversed_array_of_digits;
 mod count_of_positives_sum_of_negatives;
 mod counting_sheep;
 mod even_or_odd;
+mod fake_binary;
 mod find_the_smallest_integer_in_the_array;
 mod grasshopper_messi_goals_function;
 mod grasshopper_summation;

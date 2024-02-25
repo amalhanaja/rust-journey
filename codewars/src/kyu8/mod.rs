@@ -21,6 +21,7 @@ mod grasshopper_summation;
 mod invert_values;
 mod is_n_divisible_by_x_and_y;
 mod keep_hydrated;
+mod make_upper_case;
 mod number_to_a_string;
 mod opposite_number;
 mod opposites_attract;

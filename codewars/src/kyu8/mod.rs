@@ -29,6 +29,7 @@ mod remove_first_and_last_character;
 mod remove_string_spaces;
 mod return_negative;
 mod returning_strings;
+mod reversed_sequence;
 mod reversed_strings;
 mod reversed_words;
 mod simple_multiplication;

@@ -40,4 +40,5 @@ mod sum_of_positive;
 mod the_if_function;
 mod third_angle_of_a_triangle;
 mod volume_of_a_cuboid;
+mod will_you_make_it;
 mod you_cant_code_under_pressure_1;

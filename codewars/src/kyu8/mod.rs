@@ -20,6 +20,7 @@ mod fake_binary;
 mod find_the_smallest_integer_in_the_array;
 mod grasshopper_messi_goals_function;
 mod grasshopper_summation;
+mod if_you_can_t_sleep_just_count_sheep;
 mod invert_values;
 mod is_he_gonna_survive;
 mod is_n_divisible_by_x_and_y;

@@ -24,6 +24,7 @@ mod if_you_can_t_sleep_just_count_sheep;
 mod invert_values;
 mod is_he_gonna_survive;
 mod is_n_divisible_by_x_and_y;
+mod jennys_secret_message;
 mod keep_hydrated;
 mod make_upper_case;
 mod number_to_a_string;
@@ -45,3 +46,4 @@ mod third_angle_of_a_triangle;
 mod volume_of_a_cuboid;
 mod will_you_make_it;
 mod you_cant_code_under_pressure_1;
+    

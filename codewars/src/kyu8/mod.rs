@@ -9,6 +9,7 @@ mod calculate_average;
 mod calculate_bmi;
 mod century_from_year;
 mod convert_a_string_to_a_number;
+mod convert_a_string_to_an_array;
 mod convert_boolean_values_to_strings;
 mod convert_number_to_reversed_array_of_digits;
 mod count_by_x;

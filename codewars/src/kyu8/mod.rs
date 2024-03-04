@@ -17,6 +17,7 @@ mod counting_sheep;
 mod dna_to_rna_conversion;
 mod even_or_odd;
 mod fake_binary;
+mod find_maximum_and_minimum_values_of_a_list;
 mod find_the_smallest_integer_in_the_array;
 mod grasshopper_messi_goals_function;
 mod grasshopper_summation;
@@ -46,4 +47,3 @@ mod third_angle_of_a_triangle;
 mod volume_of_a_cuboid;
 mod will_you_make_it;
 mod you_cant_code_under_pressure_1;
-    

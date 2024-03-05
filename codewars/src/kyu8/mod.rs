@@ -47,6 +47,7 @@ mod rock_paper_scissors;
 mod simple_multiplication;
 mod square_n_sum;
 mod string_repeat;
+mod sum_mixed_array;
 mod sum_of_positive;
 mod the_if_function;
 mod third_angle_of_a_triangle;

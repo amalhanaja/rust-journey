@@ -21,6 +21,7 @@ mod even_or_odd;
 mod fake_binary;
 mod find_maximum_and_minimum_values_of_a_list;
 mod find_the_smallest_integer_in_the_array;
+mod get_the_mean_of_an_array;
 mod grasshopper_grade_book;
 mod grasshopper_messi_goals_function;
 mod grasshopper_summation;

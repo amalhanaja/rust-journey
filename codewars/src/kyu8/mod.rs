@@ -24,6 +24,7 @@ mod find_the_smallest_integer_in_the_array;
 mod get_the_mean_of_an_array;
 mod grasshopper_grade_book;
 mod grasshopper_messi_goals_function;
+mod grasshopper_personalized_message;
 mod grasshopper_summation;
 mod if_you_can_t_sleep_just_count_sheep;
 mod invert_values;

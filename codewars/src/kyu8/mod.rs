@@ -1,5 +1,6 @@
 mod abbreviate_a_two_word_name;
 mod are_you_playing_banjo;
+mod array_plus_array;
 mod basic_mathematical_operations;
 mod beginner_lost_without_a_map;
 mod beginner_reduce_but_grow;

@@ -39,6 +39,7 @@ mod returning_strings;
 mod reversed_sequence;
 mod reversed_strings;
 mod reversed_words;
+mod rock_paper_scissors;
 mod simple_multiplication;
 mod square_n_sum;
 mod string_repeat;

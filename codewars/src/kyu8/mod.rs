@@ -49,6 +49,7 @@ mod square_n_sum;
 mod string_repeat;
 mod sum_mixed_array;
 mod sum_of_positive;
+mod the_feast_of_many_beasts;
 mod the_if_function;
 mod third_angle_of_a_triangle;
 mod total_amount_of_points;

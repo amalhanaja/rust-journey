@@ -36,6 +36,7 @@ mod make_upper_case;
 mod number_to_a_string;
 mod opposite_number;
 mod opposites_attract;
+mod quarter_of_the_year;
 mod remove_first_and_last_character;
 mod remove_string_spaces;
 mod return_negative;

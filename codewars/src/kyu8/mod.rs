@@ -18,6 +18,7 @@ mod count_of_positives_sum_of_negatives;
 mod count_the_monkeys;
 mod counting_sheep;
 mod dna_to_rna_conversion;
+mod double_char;
 mod even_or_odd;
 mod fake_binary;
 mod find_maximum_and_minimum_values_of_a_list;

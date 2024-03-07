@@ -15,6 +15,7 @@ mod convert_boolean_values_to_strings;
 mod convert_number_to_reversed_array_of_digits;
 mod count_by_x;
 mod count_of_positives_sum_of_negatives;
+mod count_the_monkeys;
 mod counting_sheep;
 mod dna_to_rna_conversion;
 mod even_or_odd;

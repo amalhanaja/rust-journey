@@ -43,6 +43,7 @@ mod opposites_attract;
 mod quarter_of_the_year;
 mod remove_first_and_last_character;
 mod remove_string_spaces;
+mod removing_elements;
 mod return_negative;
 mod returning_strings;
 mod reversed_sequence;

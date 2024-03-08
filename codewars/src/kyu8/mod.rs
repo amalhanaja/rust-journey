@@ -59,6 +59,7 @@ mod square_n_sum;
 mod string_repeat;
 mod sum_mixed_array;
 mod sum_of_positive;
+mod switch_it_up;
 mod the_feast_of_many_beasts;
 mod the_if_function;
 mod thinkful_logic_drills_traffic_light;

@@ -18,6 +18,7 @@ mod count_of_positives_sum_of_negatives;
 mod count_the_monkeys;
 mod counting_sheep;
 mod dna_to_rna_conversion;
+mod do_i_get_a_bonus;
 mod double_char;
 mod even_or_odd;
 mod fake_binary;

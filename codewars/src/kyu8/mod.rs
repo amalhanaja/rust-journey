@@ -69,3 +69,4 @@ mod volume_of_a_cuboid;
 mod will_there_be_enough_space;
 mod will_you_make_it;
 mod you_cant_code_under_pressure_1;
+mod parse_nice_int_from_char_problem;

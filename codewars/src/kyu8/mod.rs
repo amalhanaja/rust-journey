@@ -1,4 +1,5 @@
 mod abbreviate_a_two_word_name;
+mod alternating_case;
 mod are_you_playing_banjo;
 mod array_plus_array;
 mod basic_mathematical_operations;
@@ -44,6 +45,7 @@ mod make_upper_case;
 mod number_to_a_string;
 mod opposite_number;
 mod opposites_attract;
+mod parse_nice_int_from_char_problem;
 mod quarter_of_the_year;
 mod remove_first_and_last_character;
 mod remove_string_spaces;
@@ -69,4 +71,3 @@ mod volume_of_a_cuboid;
 mod will_there_be_enough_space;
 mod will_you_make_it;
 mod you_cant_code_under_pressure_1;
-mod parse_nice_int_from_char_problem;

@@ -16,6 +16,7 @@ mod convert_a_string_to_an_array;
 mod convert_boolean_values_to_strings;
 mod convert_number_to_reversed_array_of_digits;
 mod count_by_x;
+mod count_odd_numbers_below_n;
 mod count_of_positives_sum_of_negatives;
 mod count_the_monkeys;
 mod counting_sheep;

@@ -36,6 +36,7 @@ mod grasshopper_grade_book;
 mod grasshopper_messi_goals_function;
 mod grasshopper_personalized_message;
 mod grasshopper_summation;
+mod grasshopper_terminal_game_move_function;
 mod i_love_you_a_little_a_lot_passionately_not_at_all;
 mod if_you_can_t_sleep_just_count_sheep;
 mod invert_values;

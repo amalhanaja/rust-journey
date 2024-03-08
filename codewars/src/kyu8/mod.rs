@@ -6,6 +6,7 @@ mod beginner_lost_without_a_map;
 mod beginner_reduce_but_grow;
 mod beginner_series_1_school_paperwork;
 mod beginner_series_2_clock;
+mod beginner_series_4_cockroach;
 mod calculate_average;
 mod calculate_bmi;
 mod century_from_year;

@@ -26,6 +26,7 @@ mod fake_binary;
 mod find_maximum_and_minimum_values_of_a_list;
 mod find_the_first_non_consecutive_number;
 mod find_the_smallest_integer_in_the_array;
+mod get_planet_name_by_id;
 mod get_the_mean_of_an_array;
 mod grasshopper_check_for_factor;
 mod grasshopper_grade_book;

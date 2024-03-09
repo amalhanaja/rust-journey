@@ -35,6 +35,7 @@ mod find_multiples_of_a_number;
 mod find_the_first_non_consecutive_number;
 mod find_the_smallest_integer_in_the_array;
 mod function_2_squaring_an_argument;
+mod generate_range_of_integers;
 mod get_character_from_ascii_value;
 mod get_nth_even_number;
 mod get_planet_name_by_id;

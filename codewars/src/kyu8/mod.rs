@@ -49,6 +49,7 @@ mod grasshopper_personalized_message;
 mod grasshopper_summation;
 mod grasshopper_terminal_game_combat_function;
 mod grasshopper_terminal_game_move_function;
+mod hex_to_decimal;
 mod i_love_you_a_little_a_lot_passionately_not_at_all;
 mod if_you_can_t_sleep_just_count_sheep;
 mod invert_values;

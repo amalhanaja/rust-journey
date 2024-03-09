@@ -35,6 +35,7 @@ mod get_planet_name_by_id;
 mod get_the_mean_of_an_array;
 mod grasshopper_check_for_factor;
 mod grasshopper_grade_book;
+mod grasshopper_if_else_syntax_debug;
 mod grasshopper_messi_goals_function;
 mod grasshopper_personalized_message;
 mod grasshopper_summation;

@@ -37,6 +37,7 @@ mod get_character_from_ascii_value;
 mod get_nth_even_number;
 mod get_planet_name_by_id;
 mod get_the_mean_of_an_array;
+mod grasshopper_basic_function_fixer;
 mod grasshopper_check_for_factor;
 mod grasshopper_grade_book;
 mod grasshopper_if_else_syntax_debug;

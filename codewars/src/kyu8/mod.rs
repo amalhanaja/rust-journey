@@ -32,6 +32,7 @@ mod find_multiples_of_a_number;
 mod find_the_first_non_consecutive_number;
 mod find_the_smallest_integer_in_the_array;
 mod function_2_squaring_an_argument;
+mod get_nth_even_number;
 mod get_planet_name_by_id;
 mod get_the_mean_of_an_array;
 mod grasshopper_check_for_factor;

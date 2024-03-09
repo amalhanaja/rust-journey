@@ -50,6 +50,7 @@ mod jennys_secret_message;
 mod keep_hydrated;
 mod l1_set_alarm;
 mod make_upper_case;
+mod name_shuffler;
 mod number_to_a_string;
 mod opposite_number;
 mod opposites_attract;

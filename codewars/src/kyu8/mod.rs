@@ -25,6 +25,7 @@ mod dna_to_rna_conversion;
 mod do_i_get_a_bonus;
 mod double_char;
 mod even_or_odd;
+mod expressions_matter;
 mod fake_binary;
 mod find_maximum_and_minimum_values_of_a_list;
 mod find_the_first_non_consecutive_number;

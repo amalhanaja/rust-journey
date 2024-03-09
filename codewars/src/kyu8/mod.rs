@@ -28,6 +28,7 @@ mod even_or_odd;
 mod expressions_matter;
 mod fake_binary;
 mod find_maximum_and_minimum_values_of_a_list;
+mod find_multiples_of_a_number;
 mod find_the_first_non_consecutive_number;
 mod find_the_smallest_integer_in_the_array;
 mod function_2_squaring_an_argument;

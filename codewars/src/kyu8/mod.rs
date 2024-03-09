@@ -54,6 +54,7 @@ mod jennys_secret_message;
 mod keep_hydrated;
 mod l1_set_alarm;
 mod make_upper_case;
+mod merge_two_sorted_arrays_into_one;
 mod name_shuffler;
 mod number_to_a_string;
 mod opposite_number;

@@ -1,3 +1,4 @@
+mod a_wolf_in_sheep_s_clothing;
 mod abbreviate_a_two_word_name;
 mod alternating_case;
 mod are_you_playing_banjo;

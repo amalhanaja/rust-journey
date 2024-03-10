@@ -55,6 +55,7 @@ mod gravity_flip;
 mod hello_name_or_world;
 mod hex_to_decimal;
 mod holiday_viii_duty_free;
+mod how_many_lightsabers_do_you_own;
 mod i_love_you_a_little_a_lot_passionately_not_at_all;
 mod if_you_can_t_sleep_just_count_sheep;
 mod invert_values;

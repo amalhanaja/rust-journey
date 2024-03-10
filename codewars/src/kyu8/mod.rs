@@ -92,6 +92,7 @@ mod square_n_sum;
 mod string_repeat;
 mod stringy_strings;
 mod sum_mixed_array;
+mod sum_of_differences_in_array;
 mod sum_of_positive;
 mod switch_it_up;
 mod take_the_derivative;

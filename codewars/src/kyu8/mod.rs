@@ -47,6 +47,7 @@ mod grasshopper_basic_function_fixer;
 mod grasshopper_check_for_factor;
 mod grasshopper_grade_book;
 mod grasshopper_if_else_syntax_debug;
+mod grasshopper_messi_goals;
 mod grasshopper_messi_goals_function;
 mod grasshopper_personalized_message;
 mod grasshopper_summation;

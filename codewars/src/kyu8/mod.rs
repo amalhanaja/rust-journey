@@ -26,6 +26,7 @@ mod counting_sheep;
 mod difference_of_volumes_of_cuboids;
 mod dna_to_rna_conversion;
 mod do_i_get_a_bonus;
+mod dollars_and_cents;
 mod double_char;
 mod even_or_odd;
 mod expressions_matter;

@@ -64,6 +64,7 @@ mod is_n_divisible_by_x_and_y;
 mod is_this_my_tail;
 mod jennys_secret_message;
 mod keep_hydrated;
+mod l1_bartender_drinks;
 mod l1_set_alarm;
 mod make_upper_case;
 mod merge_two_sorted_arrays_into_one;

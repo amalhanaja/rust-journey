@@ -103,6 +103,7 @@ mod thinkful_logic_drills_traffic_light;
 mod third_angle_of_a_triangle;
 mod to_square_root_or_not_to_square_root;
 mod total_amount_of_points;
+mod usd_cny;
 mod volume_of_a_cuboid;
 mod welcome;
 mod what_is_between;

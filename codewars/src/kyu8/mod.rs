@@ -92,6 +92,7 @@ mod reversed_strings;
 mod reversed_words;
 mod rock_paper_scissors;
 mod simple_multiplication;
+mod smallest_unused_id;
 mod sort_and_star;
 mod square_n_sum;
 mod string_repeat;

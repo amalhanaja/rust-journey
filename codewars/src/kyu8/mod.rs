@@ -75,6 +75,7 @@ mod number_to_a_string;
 mod opposite_number;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;
+mod pillars;
 mod plural;
 mod powers_of_2;
 mod quarter_of_the_year;

@@ -23,6 +23,7 @@ mod count_odd_numbers_below_n;
 mod count_of_positives_sum_of_negatives;
 mod count_the_monkeys;
 mod counting_sheep;
+mod csv_representation_of_array;
 mod difference_of_volumes_of_cuboids;
 mod dna_to_rna_conversion;
 mod do_i_get_a_bonus;

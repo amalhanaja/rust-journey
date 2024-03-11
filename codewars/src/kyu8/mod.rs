@@ -31,6 +31,7 @@ mod dna_to_rna_conversion;
 mod do_i_get_a_bonus;
 mod dollars_and_cents;
 mod double_char;
+mod enumerable_magic_20_cascading_subsets;
 mod even_or_odd;
 mod expressions_matter;
 mod fake_binary;

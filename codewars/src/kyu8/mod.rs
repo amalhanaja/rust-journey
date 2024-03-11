@@ -85,6 +85,7 @@ mod pillars;
 mod pirates_are_the_cannons_ready;
 mod plural;
 mod powers_of_2;
+mod quadrants;
 mod quadratic_coefficients_solver;
 mod quarter_of_the_year;
 mod remove_first_and_last_character;

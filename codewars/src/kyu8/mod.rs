@@ -14,6 +14,7 @@ mod beginner_series_4_cockroach;
 mod bin_to_decimal;
 mod calculate_average;
 mod calculate_bmi;
+mod casting_binary_float_to_integer;
 mod century_from_year;
 mod compare_within_margin;
 mod contamination_1_string;

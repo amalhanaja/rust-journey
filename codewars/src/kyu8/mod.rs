@@ -76,6 +76,7 @@ mod merge_two_sorted_arrays_into_one;
 mod multiplication_table_for_number;
 mod name_shuffler;
 mod number_to_a_string;
+mod oop_object_oriented_piracy;
 mod opposite_number;
 mod opposites_attract;
 mod parse_nice_int_from_char_problem;

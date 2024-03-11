@@ -78,6 +78,7 @@ mod make_upper_case;
 mod merge_two_sorted_arrays_into_one;
 mod multiplication_table_for_number;
 mod name_shuffler;
+mod neutralisation;
 mod never_visit_a;
 mod number_to_a_string;
 mod oop_object_oriented_piracy;

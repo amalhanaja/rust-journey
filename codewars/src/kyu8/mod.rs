@@ -97,6 +97,7 @@ mod reversed_sequence;
 mod reversed_strings;
 mod reversed_words;
 mod rock_paper_scissors;
+mod safen_user_input_part_i_htmlspecialchars;
 mod simple_multiplication;
 mod smallest_unused_id;
 mod sort_and_star;

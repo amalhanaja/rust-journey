@@ -16,6 +16,7 @@ mod calculate_average;
 mod calculate_bmi;
 mod casting_binary_float_to_integer;
 mod century_from_year;
+mod collinearity;
 mod compare_within_margin;
 mod contamination_1_string;
 mod convert_a_string_to_a_number;

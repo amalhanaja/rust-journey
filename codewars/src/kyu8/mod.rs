@@ -128,4 +128,5 @@ mod what_is_between;
 mod what_s_up_next;
 mod will_there_be_enough_space;
 mod will_you_make_it;
+mod wilson_primes;
 mod you_cant_code_under_pressure_1;

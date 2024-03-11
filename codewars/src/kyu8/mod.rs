@@ -58,6 +58,7 @@ mod grasshopper_terminal_game_move_function;
 mod gravity_flip;
 mod hello_name_or_world;
 mod hex_to_decimal;
+mod holiday_vi_shark_pontoon;
 mod holiday_viii_duty_free;
 mod how_many_lightsabers_do_you_own;
 mod i_love_you_a_little_a_lot_passionately_not_at_all;

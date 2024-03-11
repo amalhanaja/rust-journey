@@ -107,6 +107,7 @@ mod take_the_derivative;
 mod the_feast_of_many_beasts;
 mod the_if_function;
 mod thinkful_logic_drills_traffic_light;
+mod thinkful_number_drills_blue_and_red_marbles;
 mod third_angle_of_a_triangle;
 mod to_square_root_or_not_to_square_root;
 mod total_amount_of_points;

@@ -4,6 +4,7 @@ mod find_the_next_perfect_square;
 mod get_the_middle_character;
 mod highest_and_lowest;
 mod is_this_a_triangle;
+mod mumbling;
 mod shortest_word;
 mod square_every_digit;
 mod vowel_count;

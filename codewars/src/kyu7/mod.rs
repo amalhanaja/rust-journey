@@ -8,3 +8,4 @@ mod mumbling;
 mod shortest_word;
 mod square_every_digit;
 mod vowel_count;
+mod you_re_a_square;

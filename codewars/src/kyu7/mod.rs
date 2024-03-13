@@ -1,6 +1,7 @@
 mod descending_order;
 mod disemvowel_trolls;
 mod find_the_next_perfect_square;
+mod get_the_middle_character;
 mod highest_and_lowest;
 mod is_this_a_triangle;
 mod shortest_word;

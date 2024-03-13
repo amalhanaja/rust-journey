@@ -1,5 +1,6 @@
 mod descending_order;
 mod disemvowel_trolls;
+mod exes_and_ohs;
 mod find_the_next_perfect_square;
 mod get_the_middle_character;
 mod highest_and_lowest;

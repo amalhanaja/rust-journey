@@ -1,3 +1,4 @@
+mod complementary_dna;
 mod descending_order;
 mod disemvowel_trolls;
 mod exes_and_ohs;

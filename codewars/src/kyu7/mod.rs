@@ -1,3 +1,4 @@
+mod beginner_series_3_sum_of_numbers;
 mod complementary_dna;
 mod credit_card_mask;
 mod descending_order;

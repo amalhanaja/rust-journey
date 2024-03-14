@@ -10,6 +10,7 @@ mod get_the_middle_character;
 mod highest_and_lowest;
 mod is_this_a_triangle;
 mod mumbling;
+mod printer_errors;
 mod shortest_word;
 mod square_every_digit;
 mod two_to_one;

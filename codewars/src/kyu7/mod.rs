@@ -1,4 +1,5 @@
 mod complementary_dna;
+mod credit_card_mask;
 mod descending_order;
 mod disemvowel_trolls;
 mod exes_and_ohs;

@@ -16,6 +16,7 @@ mod printer_errors;
 mod regex_validate_pin_code;
 mod shortest_word;
 mod square_every_digit;
+mod string_ends_with;
 mod two_to_one;
 mod vowel_count;
 mod you_re_a_square;

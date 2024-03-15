@@ -11,6 +11,7 @@ mod highest_and_lowest;
 mod is_this_a_triangle;
 mod mumbling;
 mod printer_errors;
+mod regex_validate_pin_code;
 mod shortest_word;
 mod square_every_digit;
 mod two_to_one;

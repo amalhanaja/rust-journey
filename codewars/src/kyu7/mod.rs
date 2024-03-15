@@ -1,4 +1,5 @@
 mod beginner_series_3_sum_of_numbers;
+mod binary_addition;
 mod categorize_new_member;
 mod complementary_dna;
 mod credit_card_mask;

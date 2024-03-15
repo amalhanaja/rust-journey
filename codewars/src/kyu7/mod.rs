@@ -8,6 +8,7 @@ mod disemvowel_trolls;
 mod exes_and_ohs;
 mod find_the_next_perfect_square;
 mod get_the_middle_character;
+mod growth_of_a_population;
 mod highest_and_lowest;
 mod is_this_a_triangle;
 mod mumbling;

@@ -12,6 +12,7 @@ mod growth_of_a_population;
 mod highest_and_lowest;
 mod is_this_a_triangle;
 mod mumbling;
+mod ones_and_zeros;
 mod printer_errors;
 mod regex_validate_pin_code;
 mod shortest_word;

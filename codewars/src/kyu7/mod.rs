@@ -13,6 +13,7 @@ mod highest_and_lowest;
 mod is_this_a_triangle;
 mod mumbling;
 mod number_of_people_in_the_bus;
+mod odd_or_even;
 mod ones_and_zeros;
 mod printer_errors;
 mod regex_validate_pin_code;

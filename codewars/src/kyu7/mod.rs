@@ -18,6 +18,7 @@ mod odd_or_even;
 mod ones_and_zeros;
 mod printer_errors;
 mod regex_validate_pin_code;
+mod remove_exclamation_marks;
 mod reverse_words;
 mod shortest_word;
 mod square_every_digit;

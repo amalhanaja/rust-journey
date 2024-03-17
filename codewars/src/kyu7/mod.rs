@@ -25,6 +25,7 @@ mod remove_exclamation_marks;
 mod remove_the_minimum;
 mod reverse_words;
 mod shortest_word;
+mod sort_array_by_string_length;
 mod square_every_digit;
 mod string_ends_with;
 mod sum_of_odd_numbers;

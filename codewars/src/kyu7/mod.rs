@@ -6,6 +6,7 @@ mod credit_card_mask;
 mod descending_order;
 mod disemvowel_trolls;
 mod exes_and_ohs;
+mod find_the_divisors;
 mod find_the_next_perfect_square;
 mod get_the_middle_character;
 mod growth_of_a_population;

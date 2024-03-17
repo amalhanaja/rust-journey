@@ -9,6 +9,7 @@ mod don_t_give_me_five;
 mod exes_and_ohs;
 mod find_the_divisors;
 mod find_the_next_perfect_square;
+mod find_the_stray_number;
 mod get_the_middle_character;
 mod growth_of_a_population;
 mod highest_and_lowest;

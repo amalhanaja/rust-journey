@@ -25,6 +25,7 @@ mod shortest_word;
 mod square_every_digit;
 mod string_ends_with;
 mod sum_of_odd_numbers;
+mod testing_1_2_3;
 mod two_to_one;
 mod vowel_count;
 mod you_re_a_square;

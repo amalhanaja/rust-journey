@@ -5,6 +5,7 @@ mod complementary_dna;
 mod credit_card_mask;
 mod descending_order;
 mod disemvowel_trolls;
+mod don_t_give_me_five;
 mod exes_and_ohs;
 mod find_the_divisors;
 mod find_the_next_perfect_square;

@@ -2,6 +2,7 @@ mod beginner_series_3_sum_of_numbers;
 mod binary_addition;
 mod categorize_new_member;
 mod complementary_dna;
+mod count_the_divisors_of_a_number;
 mod credit_card_mask;
 mod descending_order;
 mod disemvowel_trolls;

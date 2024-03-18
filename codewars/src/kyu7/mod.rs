@@ -32,6 +32,7 @@ mod shortest_word;
 mod sort_array_by_string_length;
 mod square_every_digit;
 mod string_ends_with;
+mod sum_of_a_sequence;
 mod sum_of_odd_numbers;
 mod testing_1_2_3;
 mod the_highest_profit_wins;

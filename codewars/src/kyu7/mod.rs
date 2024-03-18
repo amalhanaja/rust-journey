@@ -27,6 +27,7 @@ mod regex_validate_pin_code;
 mod remove_exclamation_marks;
 mod remove_the_minimum;
 mod reverse_words;
+mod round_up_to_the_next_multiple_of_5;
 mod shortest_word;
 mod sort_array_by_string_length;
 mod square_every_digit;

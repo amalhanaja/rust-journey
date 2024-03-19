@@ -30,6 +30,7 @@ mod reverse_words;
 mod round_up_to_the_next_multiple_of_5;
 mod shortest_word;
 mod sort_array_by_string_length;
+mod sort_numbers;
 mod square_every_digit;
 mod string_ends_with;
 mod sum_of_a_sequence;

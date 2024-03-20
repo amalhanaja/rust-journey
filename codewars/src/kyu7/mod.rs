@@ -2,6 +2,7 @@ mod beginner_series_3_sum_of_numbers;
 mod binary_addition;
 mod breaking_chocolate_problem;
 mod categorize_new_member;
+mod check_the_exam;
 mod complementary_dna;
 mod count_the_digit;
 mod count_the_divisors_of_a_number;

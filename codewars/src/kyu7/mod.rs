@@ -19,6 +19,7 @@ mod get_the_middle_character;
 mod growth_of_a_population;
 mod highest_and_lowest;
 mod is_this_a_triangle;
+mod maximum_multiple;
 mod mumbling;
 mod number_of_people_in_the_bus;
 mod odd_or_even;

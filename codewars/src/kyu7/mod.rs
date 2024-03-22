@@ -25,6 +25,7 @@ mod highest_and_lowest;
 mod is_this_a_triangle;
 mod largest_5_digit_number_in_a_series;
 mod leap_years;
+mod maximum_length_difference;
 mod maximum_multiple;
 mod mumbling;
 mod number_of_people_in_the_bus;

@@ -17,6 +17,7 @@ mod find_the_middle_element;
 mod find_the_next_perfect_square;
 mod find_the_stray_number;
 mod fix_string_case;
+mod flatten_and_sort_an_array;
 mod form_the_minimum;
 mod get_the_middle_character;
 mod growth_of_a_population;

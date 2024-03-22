@@ -47,6 +47,7 @@ mod sort_numbers;
 mod square_every_digit;
 mod string_ends_with;
 mod sum_of_a_sequence;
+mod sum_of_angles;
 mod sum_of_minimums;
 mod sum_of_odd_numbers;
 mod testing_1_2_3;

@@ -31,6 +31,7 @@ mod maximum_length_difference;
 mod maximum_multiple;
 mod maximum_product;
 mod mumbling;
+mod number_of_decimal_digits;
 mod number_of_people_in_the_bus;
 mod odd_or_even;
 mod ones_and_zeros;

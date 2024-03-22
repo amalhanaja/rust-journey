@@ -58,6 +58,7 @@ mod sum_of_minimums;
 mod sum_of_odd_numbers;
 mod testing_1_2_3;
 mod the_highest_profit_wins;
+mod triangular_treasure;
 mod two_oldest_ages;
 mod two_to_one;
 mod vowel_count;

@@ -8,6 +8,7 @@ mod complementary_dna;
 mod count_the_digit;
 mod count_the_divisors_of_a_number;
 mod credit_card_mask;
+mod deodorant_evaporator;
 mod descending_order;
 mod disemvowel_trolls;
 mod don_t_give_me_five;

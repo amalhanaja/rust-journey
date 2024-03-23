@@ -54,6 +54,7 @@ mod reverse_words;
 mod round_up_to_the_next_multiple_of_5;
 mod row_weights;
 mod shortest_word;
+mod simple_beads_count;
 mod simple_fun_176_reverse_letter;
 mod sort_array_by_string_length;
 mod sort_numbers;

@@ -59,6 +59,7 @@ mod sum_of_angles;
 mod sum_of_cubes;
 mod sum_of_minimums;
 mod sum_of_odd_numbers;
+mod switcheroo;
 mod testing_1_2_3;
 mod the_highest_profit_wins;
 mod triangular_treasure;

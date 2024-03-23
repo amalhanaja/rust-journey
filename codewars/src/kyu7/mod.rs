@@ -38,6 +38,7 @@ mod number_of_decimal_digits;
 mod number_of_people_in_the_bus;
 mod odd_or_even;
 mod ones_and_zeros;
+mod parts_of_a_list;
 mod power_of_two;
 mod printer_errors;
 mod regex_validate_pin_code;

@@ -33,6 +33,7 @@ mod is_this_a_triangle;
 mod largest_5_digit_number_in_a_series;
 mod leap_years;
 mod love_vs_friendship;
+mod max_diff_easy;
 mod maximum_length_difference;
 mod maximum_multiple;
 mod maximum_product;

@@ -12,6 +12,7 @@ mod credit_card_mask;
 mod deodorant_evaporator;
 mod descending_order;
 mod disemvowel_trolls;
+mod divide_and_conquer;
 mod don_t_give_me_five;
 mod even_numbers_in_an_array;
 mod exes_and_ohs;

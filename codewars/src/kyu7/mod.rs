@@ -21,6 +21,7 @@ mod exes_and_ohs;
 mod find_the_divisors;
 mod find_the_middle_element;
 mod find_the_next_perfect_square;
+mod find_the_nth_digit_of_a_number;
 mod find_the_stray_number;
 mod fix_string_case;
 mod flatten_and_sort_an_array;

@@ -42,6 +42,7 @@ mod maximum_product;
 mod minimize_sum_of_array_array_series_1;
 mod moves_in_squared_strings_i;
 mod mumbling;
+mod nth_smallest_element_array_series_4;
 mod number_of_decimal_digits;
 mod number_of_people_in_the_bus;
 mod odd_or_even;

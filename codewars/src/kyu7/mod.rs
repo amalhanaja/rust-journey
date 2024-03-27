@@ -78,6 +78,7 @@ mod sum_of_odd_numbers;
 mod switcheroo;
 mod testing_1_2_3;
 mod the_highest_profit_wins;
+mod tidy_number_special_numbers_series_9;
 mod triangular_treasure;
 mod two_oldest_ages;
 mod two_to_one;

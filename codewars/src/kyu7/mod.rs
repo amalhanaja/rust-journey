@@ -1,4 +1,5 @@
 mod alphabet_symmetry;
+mod alphabetical_addition;
 mod alternate_capitalization;
 mod automorphic_number_special_numbers_series_6;
 mod beginner_series_3_sum_of_numbers;

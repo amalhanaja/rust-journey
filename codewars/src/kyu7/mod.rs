@@ -76,6 +76,7 @@ mod sum_of_array_singles;
 mod sum_of_cubes;
 mod sum_of_minimums;
 mod sum_of_odd_numbers;
+mod sum_of_the_first_nth_term_of_series;
 mod switcheroo;
 mod testing_1_2_3;
 mod the_highest_profit_wins;

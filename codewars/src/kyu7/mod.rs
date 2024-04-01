@@ -72,6 +72,7 @@ mod spacify;
 mod speed_control;
 mod square_every_digit;
 mod string_ends_with;
+mod strong_number_special_numbers_series_2;
 mod sum_of_a_sequence;
 mod sum_of_angles;
 mod sum_of_array_singles;

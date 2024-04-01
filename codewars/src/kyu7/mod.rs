@@ -42,6 +42,7 @@ mod max_diff_easy;
 mod maximum_length_difference;
 mod maximum_multiple;
 mod maximum_product;
+mod maximum_triplet_sum_array_series_7;
 mod minimize_sum_of_array_array_series_1;
 mod moves_in_squared_strings_i;
 mod mumbling;

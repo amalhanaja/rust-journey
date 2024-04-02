@@ -70,6 +70,7 @@ mod simple_beads_count;
 mod simple_fun_176_reverse_letter;
 mod sort_array_by_string_length;
 mod sort_numbers;
+mod sort_out_the_men_from_boys;
 mod spacify;
 mod speed_control;
 mod square_every_digit;

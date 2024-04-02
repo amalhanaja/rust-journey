@@ -10,6 +10,7 @@ mod breaking_chocolate_problem;
 mod build_a_square;
 mod building_blocks;
 mod categorize_new_member;
+mod char_code_calculation;
 mod check_the_exam;
 mod coloured_triangles;
 mod complementary_dna;

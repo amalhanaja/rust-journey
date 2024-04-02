@@ -70,6 +70,7 @@ mod shortest_word;
 mod simple_beads_count;
 mod simple_fun_176_reverse_letter;
 mod sort_array_by_string_length;
+mod sort_by_last_char;
 mod sort_numbers;
 mod sort_out_the_men_from_boys;
 mod spacify;

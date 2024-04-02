@@ -8,6 +8,7 @@ mod binary_addition;
 mod boiled_eggs;
 mod breaking_chocolate_problem;
 mod build_a_square;
+mod building_blocks;
 mod categorize_new_member;
 mod check_the_exam;
 mod coloured_triangles;

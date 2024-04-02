@@ -1,3 +1,4 @@
+mod a_rule_of_divisibility_by_7;
 mod alphabet_symmetry;
 mod alphabetical_addition;
 mod alternate_capitalization;

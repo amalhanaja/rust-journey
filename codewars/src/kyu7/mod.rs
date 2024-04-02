@@ -61,6 +61,7 @@ mod over_the_road;
 mod parts_of_a_list;
 mod power_of_two;
 mod printer_errors;
+mod product_of_maximums_of_array_array_series_2;
 mod regex_validate_pin_code;
 mod remove_duplicate_words;
 mod remove_exclamation_marks;

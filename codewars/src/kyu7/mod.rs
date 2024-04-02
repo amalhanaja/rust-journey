@@ -92,5 +92,6 @@ mod tidy_number_special_numbers_series_9;
 mod triangular_treasure;
 mod two_oldest_ages;
 mod two_to_one;
+mod v_a_p_o_r_c_o_d_e;
 mod vowel_count;
 mod you_re_a_square;

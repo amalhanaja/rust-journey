@@ -35,6 +35,7 @@ mod get_the_middle_character;
 mod greet_me;
 mod growth_of_a_population;
 mod highest_and_lowest;
+mod incrementer;
 mod is_this_a_triangle;
 mod largest_5_digit_number_in_a_series;
 mod leap_years;

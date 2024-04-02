@@ -10,6 +10,7 @@ mod breaking_chocolate_problem;
 mod build_a_square;
 mod categorize_new_member;
 mod check_the_exam;
+mod coloured_triangles;
 mod complementary_dna;
 mod count_the_digit;
 mod count_the_divisors_of_a_number;

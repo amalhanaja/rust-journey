@@ -2,6 +2,7 @@ mod a_rule_of_divisibility_by_7;
 mod alphabet_symmetry;
 mod alphabetical_addition;
 mod alternate_capitalization;
+mod array_element_parity;
 mod automorphic_number_special_numbers_series_6;
 mod balanced_number_special_numbers_series_1;
 mod beginner_series_3_sum_of_numbers;

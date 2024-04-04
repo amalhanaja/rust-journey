@@ -69,6 +69,7 @@ mod remove_duplicate_words;
 mod remove_exclamation_marks;
 mod remove_the_minimum;
 mod reverse_words;
+mod rotate_for_a_max;
 mod round_up_to_the_next_multiple_of_5;
 mod row_weights;
 mod shortest_word;

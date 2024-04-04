@@ -35,6 +35,7 @@ mod fix_string_case;
 mod flatten_and_sort_an_array;
 mod form_the_minimum;
 mod get_the_middle_character;
+mod greatest_common_divisor;
 mod greet_me;
 mod growth_of_a_population;
 mod highest_and_lowest;

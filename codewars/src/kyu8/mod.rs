@@ -126,6 +126,7 @@ mod total_amount_of_points;
 mod usd_cny;
 mod volume_of_a_cuboid;
 mod welcome;
+mod well_of_ideas_easy_version;
 mod what_is_between;
 mod what_s_up_next;
 mod will_there_be_enough_space;

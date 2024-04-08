@@ -23,6 +23,7 @@ mod count_the_divisors_of_a_number;
 mod credit_card_mask;
 mod deodorant_evaporator;
 mod descending_order;
+mod disarium_number_special_numbers_series_3;
 mod disemvowel_trolls;
 mod divide_and_conquer;
 mod don_t_give_me_five;
